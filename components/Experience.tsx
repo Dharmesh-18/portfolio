@@ -37,9 +37,9 @@ const Experience = () => {
                                 <h2 className="text-start text-xl md:text-sm font-bold text-purple">
                                     {card.organization}
                                 </h2>
-                                {card.desc.map((item, key) => (
-                                    <p key={key} className="text-start text-white-100 mt-3 font-semibold">
-                                        - {item}
+                                {card.desc.map((item, index) => (
+                                    <p key={index} className={ ` ${index === 0 ? 'text-purple text-base' : 'text-white-100'} text-start mt-3 font-semibold `}>
+                                        {index === 0 ? "" : "- "} {item}
                                     </p>
 
                                 ))}
