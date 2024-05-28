@@ -25,10 +25,6 @@ const Footer = () => {
                 </a>
             </div>
             <div className="flex mt-16 md:flex-row flex-col justify-between items-center gap-5">
-                <p className="md:text-base text-sm md:font-normal font-light">
-                    Copyright © 2024 Dharmesh Tiwari
-                </p>
-
                 <a href="tel: +919140293955">
                     <div className="flex items-center md:gap-3 gap-6">
                         {socialMedia.map((info) => (
@@ -42,6 +38,11 @@ const Footer = () => {
                         <span>+91 9140293955</span>
                     </div>
                 </a>
+
+                <p className="md:text-base text-sm md:font-normal font-light">
+                    Copyright © 2024 Dharmesh Tiwari
+                </p>
+
 
             </div>
         </footer>
