@@ -153,6 +153,7 @@ export const workExperience = [
         desc: [
             "Skills acquired: Javascript, React.js, Next.js, MongoDB, ChatGpt.",
             "Added pagination and search features for workspace module",
+            "Stablising the product by solving bugs and refactoring",
             "Worked on development of multiple No Code Projects.",
             "Adding new and improving existing widgets and functionalities.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
