@@ -152,6 +152,7 @@ export const workExperience = [
         organization: "NightHack Labs (Oct 2023 - Present)",
         desc: [
             "Skills acquired: Javascript, React.js, Next.js, MongoDB, ChatGpt.",
+            "Added pagination and search features for workspace module",
             "Worked on development of multiple No Code Projects.",
             "Adding new and improving existing widgets and functionalities.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
