@@ -109,6 +109,14 @@ export const projects = [
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
         link: "https://dharmesh-brainwave.netlify.app",
     },
+    {
+        id: 6,
+        title: "Messenger: Chat app with group and image share",
+        des: "Used Next.js, NextAuth(for custom and social auths), prisma, cloudinary and pusher for real-time communication..",
+        img: "/p8.svg",
+        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg"],
+        link: "Messenger clone: https://messenger-dharmeshs-projects-c5d90cdb.vercel.app",
+    },
 ];
 
 
@@ -151,7 +159,7 @@ export const workExperience = [
         title: "Senior Software Engineer",
         organization: "NightHack Labs (Oct 2023 - Present)",
         desc: [
-            "Skills acquired: Javascript, React.js, Next.js, MongoDB, ChatGpt.",
+            "Skills acquired: Javascript, React.js, Next.js, MongoDB, Prisma, Docker, Redis, ChatGpt.",
             "Added pagination and search features for workspace module",
             "Stablising the product by solving bugs and refactoring",
             "Worked on development of multiple No Code Projects.",
