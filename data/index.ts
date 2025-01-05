@@ -113,7 +113,7 @@ export const projects = [
         id: 6,
         title: "Messenger: Chat app with group and image share",
         des: "Used Next.js, NextAuth(for custom and social auths), prisma, cloudinary and pusher for real-time communication..",
-        img: "/p8.svg",
+        img: "/p9.svg",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg"],
         link: "https://messenger-dharmeshs-projects-c5d90cdb.vercel.app",
     },
