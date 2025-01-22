@@ -121,7 +121,7 @@ export const projects = [
         id: 7,
         title: "Logoipsum: task managing app with multiple workspaces, project and task management",
         des: "Jira clone with Next.js, tailwind, shadcn-ui, appwrite, hono-js, having different views like table, kanban, calendar for task viewing..",
-        img: "/p9.svg",
+        img: "/p10.svg",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg"],
         link: "https://jira-clone-dharmesh.vercel.app",
     },
